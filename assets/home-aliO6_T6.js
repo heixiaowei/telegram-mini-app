@@ -1,1 +1,0 @@
-import{_ as o,c as t,b as s,o as c}from"./index-B0dE6QNp.js";const n={},a={class:"home p-10"};function r(l,e){return c(),t("div",a,e[0]||(e[0]=[s("div",{class:"font-bold text-24"},"信号",-1),s("div",{class:""},null,-1)]))}const _=o(n,[["render",r]]);export{_ as default};
